@@ -6,7 +6,7 @@ order: 20
 ---
 <template lang='md'>
   <v-alert type='error' :value='true' class='my-4' color='primary'>
-    The Revit plugin is WIP. Use it, have fun, but thinks may break. Or in other words, HIC SVNT DRACONES.
+    The Revit plugin is WIP. Use it, have fun, but things may break. Or in other words, HIC SVNT DRACONES.
   </v-alert>
 
   <v-alert type='error' :value='true' class='my-4' color='grey'>
